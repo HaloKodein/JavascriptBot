@@ -4,11 +4,11 @@ Primeiro você precisa instalar os módulos usando o `yarn` ou o `npm`.
 
 Exemplos abaixo:
 ___
-NPM
+**NPM**
 ```cmd
 npm install
 ```
-YARN
+**YARN**
 ```cmd
 yarn
 ```
