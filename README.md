@@ -39,7 +39,7 @@ export default {
         description: '',
         options: []
     },
-    execute: async ({ message, args, client }) => {
+    execute: async ({ interaction, client }) => {
     }
 }
 ```
