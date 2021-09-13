@@ -43,7 +43,7 @@ export default {
     }
 }
 ```
-Estrutura dos eventos
+**Estrutura dos eventos**
 ```js
 export default {
     name: 'nomedoevento', //exemplo ready
